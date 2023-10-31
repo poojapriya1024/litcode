@@ -1,2 +1,2 @@
 # about this repo
-this repo contains all the code for modules and contests of enitre course - litwork
+this repo contains the code for all modules and contests of the enitre course - litwork
